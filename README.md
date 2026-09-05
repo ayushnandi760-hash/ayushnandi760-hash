@@ -69,31 +69,31 @@
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css,mysql" alt="Languages"/>
+  <img src="https://skillicons.dev/icons?i=java,python,c,mysql" alt="Java, Python, C, MySQL"/>
 </p>
 
 ### 🌐 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind" alt="Frontend"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React"/>
 </p>
 
 ### ⚙️ Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring" alt="Backend"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="Express.js"/>
 </p>
 
-### 🗄️ Databases
+### 🗄️ Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
 </p>
 
 ### 🤖 AI / ML
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python" alt="AI ML"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
 </p>
 
 `Machine Learning` `Computer Vision` `NLP` `Generative AI`
@@ -101,8 +101,9 @@
 ### 🛠️ Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,vercel" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=vscode,github,vercel" alt="VS Code, GitHub, Vercel"/>
 </p>
+
 
 ---
 
