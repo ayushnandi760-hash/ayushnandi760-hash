@@ -64,45 +64,36 @@
 
 ---
 
-# 🧰 Tech Stack
+🧰 Tech Stack
+💻 Programming Languages
 
-### 💻 Languages
+<p> <img src="https://skillicons.dev/icons?i=python,java,c,js" /> </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,mysql" alt="Java, Python, C, MySQL"/>
-</p>
+🌐 Frontend Development
 
-### 🌐 Frontend
+<p> <img src="https://skillicons.dev/icons?i=html,css,react,vite,tailwind" /> </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react" alt="React"/>
-</p>
+⚙️ Backend Development
 
-### ⚙️ Backend
+<p> <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi" /> </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=express" alt="Express.js"/>
-</p>
+🗄️ Databases
 
-### 🗄️ Database
+<p> <img src="https://skillicons.dev/icons?i=mysql,mongodb" /> </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
-</p>
+🤖 AI / Machine Learning
 
-### 🤖 AI / ML
+<p> <img src="https://skillicons.dev/icons?i=python,tensorflow" /> </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
-</p>
+Machine Learning • Computer Vision • NLP • Generative AI • LLM Applications
 
-`Machine Learning` `Computer Vision` `NLP` `Generative AI`
+☁️ Cloud & DevOps
 
-### 🛠️ Tools & Platforms
+<p> <img src="https://skillicons.dev/icons?i=vercel,docker" /> </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,github,vercel" alt="VS Code, GitHub, Vercel"/>
-</p>
+🛠️ Tools & Platforms
+
+<p> <img src="https://skillicons.dev/icons?i=vscode,git,github,figma" /> </p>
 
 
 ---
