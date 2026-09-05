@@ -2,89 +2,81 @@
 
 # 👋 Hey, I'm Ayush Nandi
 
-### Full-Stack Developer • AI Enthusiast • Problem Solver
+### 💻 Full-Stack Developer • AI Enthusiast • Problem Solver • CSE Student
 
 <p>
-  <a href="https://github.com/udaysharmadev">
-    <img src="https://img.shields.io/github/followers/udaysharmadev?label=Followers&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Followers"/>
+  <a href="https://github.com/ayushnandi760-hash">
+    <img src="https://img.shields.io/badge/GitHub-ayushnandi760--hash-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://github.com/udaysharmadev">
-    <img src="https://komarev.com/ghpvc/?username=udaysharmadev&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <a href="https://www.linkedin.com/in/ayush-nandi-9804423b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Nandi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/udaysharmadev">
-    <img src="https://img.shields.io/github/stars/udaysharmadev?label=Stars&style=for-the-badge&logo=github&logoColor=white" alt="GitHub Stars"/>
+  <a href="https://portfolio-eta-sand-23.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/ayush_nandi/">
+    <img src="https://img.shields.io/badge/LeetCode-ayush__nandi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/ayush-nandi-9804423b4">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://leetcode.com/ayush_nandi">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-  <a href="mailto:ayushnandi760@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=ayushnandi760-hash&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 ```text
-🎓 Computer Science Engineering Student
-💻 Full-Stack Developer
-🤖 Interested in AI & Intelligent Systems
-🧠 Currently improving DSA & Problem Solving
-☁️ Exploring Cloud Computing
-🗄️ Learning OS, DBMS & System Design
-🚀 Building practical projects and hackathon solutions
+🎓 B.Tech Computer Science & Engineering student
+💻 Building full-stack web applications
+🤖 Exploring AI, ML & intelligent systems
+🧠 Currently improving DSA with Java
+☁️ Learning Cloud Computing, OS & DBMS
+🏆 Building projects for hackathons & real-world problems
+🤝 Open to collaborating on Full-Stack, AI & Open Source projects
 ```
 
-I enjoy turning ideas into real-world applications — from full-stack web platforms to AI-powered solutions.
-
-I'm currently focused on becoming a stronger **software engineer** by combining development, problem solving, AI, and system fundamentals.
-
----
-
-## 🔭 What I'm Currently Working On
-
-* 🌱 Learning **Cloud Computing, Operating Systems & DBMS**
-* 🧠 Improving **Data Structures & Algorithms with Java**
-* 💻 Building **Full-Stack Web Applications**
-* 🤖 Exploring **AI-powered applications**
-* 🚀 Participating in **Hackathons & Open Source**
-* 🤝 Open to collaborating on interesting **Full-Stack & AI projects**
+* 🔭 Currently working on **AI-powered and full-stack projects**
+* 🌱 Currently learning **DSA, Cloud Computing, Operating Systems & DBMS**
+* 👯 Looking to collaborate on **Full-Stack Web Applications & AI Solutions**
+* 🧠 Improving my problem-solving skills with **Java + DSA**
+* 💡 Interested in **AI, Computer Vision, NLP, Automation & FinTech**
+* 🌐 Portfolio: **[Visit my portfolio](https://portfolio-eta-sand-23.vercel.app/)**
+* 📫 Email: **[ayushnandi760@gmail.com](mailto:ayushnandi760@gmail.com)**
 
 ---
 
-## 🛠️ Tech Stack
+# 🧰 Tech Stack
 
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,js,c,html,css" />
-</p>
-
-### Frontend
+### 👨‍💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,js" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,c,html,css,sql" />
 </p>
 
-### Backend & Database
+### 🌐 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite,tailwind" />
+</p>
+
+### ⚙️ Backend & Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,spring,mysql,mongodb" />
 </p>
 
-### Tools & Technologies
+### 🤖 AI / Data
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode,postman,vercel" />
 </p>
 
 ---
@@ -93,62 +85,106 @@ I'm currently focused on becoming a stronger **software engineer** by combining 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=udaysharmadev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" height="180"/>
+<a href="https://github.com/ayushnandi760-hash">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushnandi760-hash&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&theme=tokyonight" />
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=udaysharmadev&layout=compact&hide_border=true&langs_count=8&theme=transparent" height="180"/>
+<a href="https://github.com/ayushnandi760-hash">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushnandi760-hash&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
+</a>
 
 </div>
 
----
-
-## 🔥 Contribution Streak
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=udaysharmadev&hide_border=true&theme=transparent" alt="GitHub Contribution Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayushnandi760-hash&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 📈 Contribution Activity
+# 🔥 Contribution Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=udaysharmadev&hide_border=true&area=true&custom_title=Ayush%20Nandi's%20Contribution%20Graph" width="100%"/>
+<a href="https://github.com/ayushnandi760-hash">
+<img src="https://streak-stats.demolab.com/?user=ayushnandi760-hash&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+</a>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=udaysharmadev&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=2&column=4" alt="GitHub Trophies"/>
+<a href="https://github.com/ayushnandi760-hash">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushnandi760-hash&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph" />
+</a>
 
 </div>
 
 ---
 
-# 📌 Featured Projects
+# 📅 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayushnandi760-hash&theme=tokyonight&utcOffset=5.5" />
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayushnandi760-hash&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
+
+</div>
+
+---
+
+# ⭐ GitHub Highlights
+
+<div align="center">
+
+<a href="https://github.com/ayushnandi760-hash?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-View%20All-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/ayushnandi760-hash?tab=stars">
+<img src="https://img.shields.io/badge/Stars-Explore%20My%20Stars-FFD700?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+<a href="https://github.com/ayushnandi760-hash?tab=followers">
+<img src="https://img.shields.io/github/followers/ayushnandi760-hash?style=for-the-badge&logo=github&label=Followers" />
+</a>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
 
 <table>
 <tr>
-
 <td width="50%">
 
 ### 🤖 VIDHI
 
-**AI Assistant for Indian Standards**
+**AI Assistant for Indian Standards & BIS Services**
 
-An AI-powered assistant designed to help users understand and retrieve relevant information from Indian Standards and BIS documents.
+An intelligent assistant designed to help industries and consumers interact with Indian Standards using AI-powered retrieval and evidence-based answers.
 
-**Tech:**
-`Python` `FastAPI` `Gemini` `ChromaDB` `PyMuPDF` `Streamlit`
+**Tech:** `Python` `FastAPI` `Gemini` `ChromaDB` `Streamlit` `PyMuPDF`
 
-<a href="https://github.com/udaysharmadev">
-View Project →
+<a href="https://github.com/Md-Sb/Vidhi">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
 </a>
 
 </td>
@@ -159,161 +195,130 @@ View Project →
 
 **Full-Stack Weather Application**
 
-A web application that provides weather information using a Spring Boot backend and modern React frontend.
+A weather tracking application with a modern frontend and backend API architecture.
 
-**Tech:**
-`Java` `Spring Boot` `React` `Vite` `REST API`
+**Tech:** `React` `Vite` `Spring Boot` `REST API`
 
-<a href="https://github.com/udaysharmadev">
-View Project →
+<a href="https://github.com/ayushnandi760-hash">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🕳️ AI Pothole Detection
+
+**AI-Powered Civic Reporting Platform**
+
+A concept/MVP for detecting potholes from uploaded images, estimating severity and generating structured civic reports.
+
+**Tech:** `AI` `Computer Vision` `React` `Maps` `Automation`
+
+<a href="https://github.com/ayushnandi760-hash">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
 </a>
 
 </td>
 
-</tr>
-
-<tr>
-
 <td width="50%">
 
-### 🚀 PlacementQuest
+### 🎯 PlacementQuest
 
 **Placement Preparation Platform**
 
-A platform concept focused on helping students prepare for placements through structured learning and practice.
+A platform concept focused on helping students organize and improve their placement preparation.
 
-**Tech:**
-`Flutter` `Dart` `Firebase`
+**Tech:** `Flutter` `Dart` `UI/UX`
 
-<a href="https://github.com/udaysharmadev">
-View Project →
+<a href="https://github.com/ayushnandi760-hash">
+<img src="https://img.shields.io/badge/View%20Project-181717?style=for-the-badge&logo=github" />
 </a>
 
 </td>
-
-<td width="50%">
-
-### 🏙️ AI Pothole Detection
-
-**Smart Civic Reporting System**
-
-An AI-powered system that allows citizens to report potholes using images and location data while automatically analysing severity.
-
-**Tech:**
-`AI` `Computer Vision` `Python` `React`
-
-<a href="https://github.com/udaysharmadev">
-View Project →
-</a>
-
-</td>
-
 </tr>
 </table>
 
 ---
 
-# 📊 GitHub Profile Summary
+# 🧠 Currently Learning
 
-<div align="center">
+<p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=udaysharmadev&theme=github" width="100%"/>
+<img src="https://img.shields.io/badge/DSA-Java-orange?style=for-the-badge&logo=java" />
+<img src="https://img.shields.io/badge/Cloud-Computing-blue?style=for-the-badge&logo=icloud" />
+<img src="https://img.shields.io/badge/Operating-Systems-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DBMS-SQL-blue?style=for-the-badge&logo=mysql" />
+<img src="https://img.shields.io/badge/AI-ML-green?style=for-the-badge&logo=python" />
 
-</div>
-
----
-
-## 📦 GitHub Statistics
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-<img src="https://img.shields.io/github/repo-count/udaysharmadev?style=for-the-badge&label=TOTAL%20REPOSITORIES" />
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/github/followers/udaysharmadev?style=for-the-badge&label=FOLLOWERS" />
-</td>
-
-<td align="center">
-<img src="https://img.shields.io/github/stars/udaysharmadev?style=for-the-badge&label=STARS" />
-</td>
-
-</tr>
-</table>
-
-</div>
+</p>
 
 ---
 
-## 💻 Coding Profiles
+# 💻 Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/ayush_nandi">
-<img src="https://leetcard.jacoblin.cool/ayush_nandi?theme=dark&font=baloo&ext=heatmap" width="500"/>
+<a href="https://leetcode.com/ayush_nandi/">
+<img src="https://leetcard.jacoblin.cool/ayush_nandi?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
 </a>
 
 </div>
 
 ---
 
-## 🧠 Currently Learning
+# 📌 My Development Journey
 
 ```text
-Data Structures & Algorithms
-        ↓
-Java & Problem Solving
-        ↓
-Operating Systems
-        ↓
-Database Management Systems
-        ↓
-Cloud Computing
-        ↓
-System Design
-        ↓
-AI / ML Applications
+2024 ───────────────► Started building programming fundamentals
+                         │
+2025 ───────────────► Web Development + Java + Projects
+                         │
+2026 ───────────────► AI + Full Stack + DSA + Hackathons
+                         │
+                         ▼
+              🚀 Building real-world solutions
 ```
 
 ---
 
-## 🤝 Let's Collaborate
+# 🎯 2026 Goals
 
-I'm interested in collaborating on:
-
-* 🌐 Full-Stack Applications
-* 🤖 AI-powered applications
-* 🧠 Intelligent automation systems
-* 🚀 Hackathon projects
-* 🌎 Open-source projects
-* 📚 Developer tools
-
-If you have an interesting idea, feel free to reach out!
+* [ ] 🚀 Build and deploy more production-ready projects
+* [ ] 🧠 Become strong in DSA with Java
+* [ ] 🤖 Build practical AI-powered applications
+* [ ] ☁️ Improve Cloud & DevOps skills
+* [ ] 🏆 Participate in more hackathons
+* [ ] 🌐 Contribute to Open Source
+* [ ] 💼 Prepare for software engineering internships
+* [ ] 📈 Maintain a consistent GitHub contribution streak
 
 ---
 
-## 📫 Connect With Me
+# 🤝 Let's Connect
 
 <div align="center">
 
+<a href="https://github.com/ayushnandi760-hash">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/ayush-nandi-9804423b4/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/ayush_nandi/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://portfolio-eta-sand-23.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
 <a href="mailto:ayushnandi760@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-ayushnandi760%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ayush-nandi-9804423b4">
-<img src="https://img.shields.io/badge/LinkedIn-Ayush%20Nandi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/ayush_nandi">
-<img src="https://img.shields.io/badge/LeetCode-ayush__nandi-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://github.com/udaysharmadev">
-<img src="https://img.shields.io/badge/GitHub-udaysharmadev-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -322,8 +327,8 @@ If you have an interesting idea, feel free to reach out!
 
 <div align="center">
 
-### 💡 "Build. Break. Learn. Repeat."
+### 💭 "Build. Break. Learn. Repeat. 🚀"
 
-⭐ If you find my projects interesting, consider giving them a star!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 
 </div>
